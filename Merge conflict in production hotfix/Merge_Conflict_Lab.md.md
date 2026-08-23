@@ -84,3 +84,10 @@ If a conflict encountered under tight production timelines is too architecturall
 ```bash
 git merge --abort
 ```
+
+
+
+
+
+<img width="1908" height="1068" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/32861e86-5aea-4a16-a035-bac6c5f4748b" />
+
