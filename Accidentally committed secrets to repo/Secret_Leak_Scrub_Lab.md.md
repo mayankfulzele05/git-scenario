@@ -77,4 +77,5 @@ pre-commit install
 ```
 
 
-<img width="1908" height="1068" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/1addc967-5e89-4fda-99b4-8dd03dc48135" />
+<img width="1927" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/565eedbf-5b61-4e75-9a5c-05cc6163ac9c" />
+
