@@ -61,6 +61,13 @@ Inside the text tracking editor container framework, modify the command operator
 
 > ⚠️ **THE GOLDEN RULE OF REBASING:** Never execute an interactive rebase history rewrite against commit blocks that have already been pushed to a remote repository and shared with other team members! Overwriting public histories will desynchronize the local tracking databases of your entire engineering team, leading to widespread duplication errors across development tracks.
 
+
+
+
 #### **Continuous Branch Maintenance Matrix**
 *   **Squash Locally:** Always lean on interactive rebases locally on your private machine workstation before running final push synchronization cycles to present clean PR submissions.
 *   **Leverage Platform Squashing:** If managing large multi-developer cross-functional teams where local rebasing compliance varies, configure your primary repository platform settings (GitHub/GitLab) to automatically enforce **Squash Merges** directly at the Pull Request approval level. This merges entire feature tracks as a single clean commit automatically.
+
+
+<img width="718" height="318" alt="image" src="https://github.com/user-attachments/assets/53cefbbd-3651-4aff-8ee2-0db7a30e6de0" />
+
